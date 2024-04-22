@@ -34,7 +34,7 @@ while (true)
 {
     Console.WriteLine("Введите полушарие широты первых координат (N/S)");
     string n = Console.ReadLine();
-    if (n == "N" || n == "S") { f.dirlong = Convert.ToChar(n); break; }
+    if (n == "N" || n == "S") { f.dirlat = Convert.ToChar(n); break; }
     Console.WriteLine("Введены некорректные данные");
 }
 while (true)
@@ -124,7 +124,7 @@ while (true)
 {
     Console.WriteLine("Введите полушарие широты вторых координат (N/S)");
     string n = Console.ReadLine();
-    if (n == "N" || n == "S") { f.dirlong = Convert.ToChar(n); break; }
+    if (n == "N" || n == "S") { s.dirlat = Convert.ToChar(n); break; }
     Console.WriteLine("Введены некорректные данные");
 }
 while (true)
@@ -161,7 +161,7 @@ while (true)
 {
     Console.WriteLine("Введите полушарие долготы вторых координат (E/W)");
     string n = Console.ReadLine();
-    if (t == "E" || t == "W") { f.dirlong = Convert.ToChar(n); break; }
+    if (t == "E" || t == "W") { s.dirlong = Convert.ToChar(n); break; }
     Console.WriteLine("Введены некорректные данные");
 }
 while (true)
