@@ -1,0 +1,17 @@
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\bin\Debug\net8.0-windows\pain11.2.exe
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\bin\Debug\net8.0-windows\pain11.2.deps.json
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\bin\Debug\net8.0-windows\pain11.2.runtimeconfig.json
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\bin\Debug\net8.0-windows\pain11.2.dll
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\bin\Debug\net8.0-windows\pain11.2.pdb
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11._2.Form1.resources
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.csproj.GenerateResource.cache
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.AssemblyInfoInputs.cache
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.AssemblyInfo.cs
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.csproj.CoreCompileInputs.cache
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.dll
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\refint\pain11.2.dll
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.pdb
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11.2.genruntimeconfig.cache
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\ref\pain11.2.dll
+C:\Users\Yadernt\source\repos\pain11.2\pain11.2\obj\Debug\net8.0-windows\pain11._2.Form2.resources
