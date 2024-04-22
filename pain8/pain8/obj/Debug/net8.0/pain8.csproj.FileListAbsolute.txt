@@ -1,0 +1,14 @@
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.AssemblyInfoInputs.cache
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.AssemblyInfo.cs
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.csproj.CoreCompileInputs.cache
+C:\Users\Yadernt\source\repos\pain8\pain8\bin\Debug\net8.0\pain8.exe
+C:\Users\Yadernt\source\repos\pain8\pain8\bin\Debug\net8.0\pain8.deps.json
+C:\Users\Yadernt\source\repos\pain8\pain8\bin\Debug\net8.0\pain8.runtimeconfig.json
+C:\Users\Yadernt\source\repos\pain8\pain8\bin\Debug\net8.0\pain8.dll
+C:\Users\Yadernt\source\repos\pain8\pain8\bin\Debug\net8.0\pain8.pdb
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.dll
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\refint\pain8.dll
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.pdb
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\pain8.genruntimeconfig.cache
+C:\Users\Yadernt\source\repos\pain8\pain8\obj\Debug\net8.0\ref\pain8.dll
