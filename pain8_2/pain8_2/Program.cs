@@ -1,5 +1,5 @@
 ﻿int n1, n2;
-Coord f = new Coord(); // координаты Томска
+Coord f = new Coord();
 while (true)
 {
     Console.WriteLine("Введите градусы широты первых координат");
@@ -91,7 +91,7 @@ while (true)
     }
     else { Console.WriteLine("Введённый символ не является числом"); }
 }
-Coord s = new Coord(); // координаты Москвы
+Coord s = new Coord();
 while (true)
 {
     Console.WriteLine("Введите градусы широты вторых координат");
