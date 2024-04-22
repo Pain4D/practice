@@ -40,61 +40,68 @@
             // textBox1
             // 
             textBox1.Font = new Font("Segoe UI", 12F);
-            textBox1.Location = new Point(12, 27);
+            textBox1.Location = new Point(14, 36);
+            textBox1.Margin = new Padding(3, 4, 3, 4);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(112, 29);
+            textBox1.Size = new Size(127, 34);
             textBox1.TabIndex = 0;
             textBox1.TextChanged += textBox1_TextChanged;
+            textBox1.KeyPress += textBox1_KeyPress;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 9);
+            label1.Location = new Point(14, 12);
             label1.Name = "label1";
-            label1.Size = new Size(112, 15);
+            label1.Size = new Size(140, 20);
             label1.TabIndex = 1;
             label1.Text = "Номер получателя";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(206, 9);
+            label2.Location = new Point(235, 12);
             label2.Name = "label2";
-            label2.Size = new Size(117, 15);
+            label2.Size = new Size(149, 20);
             label2.TabIndex = 2;
             label2.Text = "Номер отправителя";
             // 
             // textBox2
             // 
             textBox2.Font = new Font("Segoe UI", 12F);
-            textBox2.Location = new Point(206, 27);
+            textBox2.Location = new Point(235, 36);
+            textBox2.Margin = new Padding(3, 4, 3, 4);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(117, 29);
+            textBox2.Size = new Size(133, 34);
             textBox2.TabIndex = 3;
+            textBox2.KeyPress += textBox2_KeyPress;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(438, 9);
+            label3.Location = new Point(501, 12);
             label3.Name = "label3";
-            label3.Size = new Size(45, 15);
+            label3.Size = new Size(55, 20);
             label3.TabIndex = 4;
             label3.Text = "Сумма";
             // 
             // textBox3
             // 
             textBox3.Font = new Font("Segoe UI", 12F);
-            textBox3.Location = new Point(402, 27);
+            textBox3.Location = new Point(459, 36);
+            textBox3.Margin = new Padding(3, 4, 3, 4);
             textBox3.Name = "textBox3";
-            textBox3.Size = new Size(112, 29);
+            textBox3.Size = new Size(127, 34);
             textBox3.TabIndex = 5;
+            textBox3.KeyPress += textBox3_KeyPress;
             // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 12F);
-            button1.Location = new Point(206, 109);
+            button1.Location = new Point(235, 145);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(117, 32);
+            button1.Size = new Size(134, 43);
             button1.TabIndex = 6;
             button1.Text = "Добавить";
             button1.UseVisualStyleBackColor = true;
@@ -102,9 +109,9 @@
             // 
             // Form2
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(530, 153);
+            ClientSize = new Size(606, 204);
             Controls.Add(button1);
             Controls.Add(textBox3);
             Controls.Add(label3);
@@ -112,6 +119,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBox1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form2";
             Text = "Form2";
             ResumeLayout(false);

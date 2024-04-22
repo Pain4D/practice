@@ -27,17 +27,59 @@ namespace pain11._2
             this.Close();
         }
 
-        public int Sender
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            get { return Convert.ToInt32(textBox1.Text); }
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
         }
-        public int Recipient
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
-            get { return Convert.ToInt32(textBox2.Text); }
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
         }
-        public int Sum
+
+        private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
         {
-            get { return Convert.ToInt32(textBox3.Text); }
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.'))
+            {
+                e.Handled = true;
+            }
+        }
+
+        public string Sender
+        {
+            get
+            {
+                if (textBox1.Text != null)
+                    return textBox1.Text;
+                else
+                    return null;
+            }
+        }
+        public string Recipient
+        {
+            get
+            {
+                if (textBox2.Text != null)
+                    return textBox2.Text;
+                else
+                    return null;
+            }
+        }
+        public string Sum
+        {
+            get
+            {
+                if (textBox3.Text != null)
+                    return textBox3.Text;
+                else
+                    return null;
+            }
         }
     }
 }

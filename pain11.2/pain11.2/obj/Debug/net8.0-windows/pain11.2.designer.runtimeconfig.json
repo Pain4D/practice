@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Yadernt\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Yadernt\\.nuget\\packages"
+      "C:\\Users\\razor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\razor\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
